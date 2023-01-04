@@ -3,3 +3,4 @@
 
 Projekat za maturski rad radjen u C#
 Svi fajlovi su iz Assets foldera
+.7z sadrzi celu kompajliranu igru sa .exe
